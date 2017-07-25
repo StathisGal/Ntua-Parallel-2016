@@ -1,0 +1,114 @@
+Benchmark started on Mon Jan 16 02:59:48 EET 2017 in termi4
+kernel:3Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004775 s
+Performance:  0.439194 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 4x32730
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.000107 s
+Performance:  19.599551 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019305 s
+Performance:  0.434530 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 8x32646
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.000263 s
+Performance:  31.895848 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077320 s
+Performance:  0.433968 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 16x32553
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.000830 s
+Performance:  40.427027 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237262 s
+Performance:  0.433110 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 28x32747
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.002456 s
+Performance:  41.840573 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310227 s
+Performance:  0.432644 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 32x32564
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.003141 s
+Performance:  42.730891 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.959131 s
+Performance:  0.428556 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 56x32552
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.009598 s
+Performance:  42.825775 Gflop/s
+>>>> End of record <<<<
+kernel:3Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.238445 s
+Performance:  0.433504 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 64x32563
+Shared memory size: 140 bytes
+GPU kernel version: † ­û
+Checking ... PASSED
+Elapsed time: 0.012488 s
+Performance:  42.990944 Gflop/s
+>>>> End of record <<<<
+Benchmark ended on Mon Jan 16 03:00:26 EET 2017 in termi4

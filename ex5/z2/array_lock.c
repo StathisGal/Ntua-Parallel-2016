@@ -1,0 +1,44 @@
+#include "lock.h"
+#include "../common/alloc.h"
+#include <pthread.h>
+/* #include <stdatomic.h> */
+
+struct lock_struct {
+  int size;
+  long unsigned tail;
+  int flag[64];
+};
+
+__thread long unsigned slot;
+
+lock_t *lock_init(int nthreads)
+{
+	lock_t *lock;
+	int i;
+	XMALLOC(lock, 1);
+	lock->size=nthreads;
+	for(i=1; i<lock->size; i++)
+	  lock->flag[i]=0;  //all are false
+	lock->flag[0]=1;
+	lock->tail=0;
+	return lock;
+}
+
+void lock_free(lock_t *lock)
+{
+	XFREE(lock);
+}
+
+
+
+void lock_acquire(lock_t *lock)
+{
+  slot =__sync_fetch_and_add(&lock->tail, 1);
+  while(!(lock->flag[slot%lock->size])){}
+}
+
+void lock_release(lock_t *lock)
+{
+  lock->flag[(slot)%lock->size]=0;
+  lock->flag[(slot+1)%lock->size]=1;
+}

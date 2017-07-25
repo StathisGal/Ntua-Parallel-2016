@@ -1,0 +1,256 @@
+/bin/rm -f dmv_main alloc.o dmv.o dmv_gpu.o dmv_main.o error.o gpu_util.o  timer.o
+g++ -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -c -Wall -fopenmp -O3 -o alloc.o alloc.c
+g++ -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -c -Wall -fopenmp -O3 -o dmv.o dmv.c
+/usr/local/cuda/bin/nvcc -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -I/usr/local/cuda/include -c -ccbin g++  -arch sm_20 -O3 --ptxas-options=-v -o dmv_gpu.o dmv_gpu.cu
+/usr/local/cuda/bin/nvcc -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -I/usr/local/cuda/include -c -ccbin g++  -arch sm_20 -O3 --ptxas-options=-v -o dmv_main.o dmv_main.cu
+g++ -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -c -Wall -fopenmp -O3 -o error.o error.c
+/usr/local/cuda/bin/nvcc -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -I/usr/local/cuda/include -c -ccbin g++  -arch sm_20 -O3 --ptxas-options=-v -o gpu_util.o gpu_util.cu
+g++ -D__FLOAT_VALUES -DEPS=1e-2 -D_NOCHECK_ -DOPENMP_KERNEL -DNDEBUG -c -Wall -fopenmp -O3 -o timer.o timer.c
+g++ -o dmv_main alloc.o dmv.o dmv_gpu.o dmv_main.o error.o gpu_util.o  timer.o -L/usr/local/cuda/lib64 -lcudart -lcublas -lm -fopenmp 
+Benchmark started on Sun Jan 15 23:46:56 EET 2017 in termi5
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.001227 s
+Performance:  1.709170 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.005011 s
+Performance:  1.674039 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.020020 s
+Performance:  1.676046 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.061232 s
+Performance:  1.678215 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.079975 s
+Performance:  1.678246 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.224730 s
+Performance:  1.829047 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.294542 s
+Performance:  1.822731 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.001173 s
+Performance:  1.787853 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.004419 s
+Performance:  1.898305 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.012430 s
+Performance:  2.699472 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.036222 s
+Performance:  2.836962 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.044854 s
+Performance:  2.992325 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.158001 s
+Performance:  2.601514 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.203158 s
+Performance:  2.642627 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.000451 s
+Performance:  4.650004 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.003062 s
+Performance:  2.739585 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.004531 s
+Performance:  7.405525 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.014934 s
+Performance:  6.880973 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.017763 s
+Performance:  7.556028 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.059305 s
+Performance:  6.930980 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.073760 s
+Performance:  7.278619 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.003502 s
+Performance:  0.598844 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.001228 s
+Performance:  6.831114 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.004147 s
+Performance:  8.091254 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.011241 s
+Performance:  9.141575 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.014327 s
+Performance:  9.368167 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.052794 s
+Performance:  7.785767 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.063592 s
+Performance:  8.442428 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.003165 s
+Performance:  0.662607 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.007502 s
+Performance:  1.118183 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.007988 s
+Performance:  4.200605 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.013656 s
+Performance:  7.524930 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.017015 s
+Performance:  7.888200 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.049649 s
+Performance:  8.278954 Gflop/s
+>>>> End of record <<<<
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+OpenMP version:
+Elapsed time: 0.063121 s
+Performance:  8.505425 Gflop/s
+>>>> End of record <<<<
+Benchmark ended on Sun Jan 15 23:47:38 EET 2017 in termi5

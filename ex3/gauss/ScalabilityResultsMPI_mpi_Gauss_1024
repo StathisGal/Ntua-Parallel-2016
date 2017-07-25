@@ -1,0 +1,12 @@
+GaussSeidelSOR X 1024 Y 1024 Px 1 Py 1 Iter 256 ComputationTime 2.943765 CommunicationTime 0.000455 TotalTime 2.944311 midpoint 0.788208
+Jacobi X 1024 Y 1024 Px 2 Py 1 Iter 256 ComputationTime 1.470635 CommunicationTime 1.497725 TotalTime 2.967385 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 2 Py 2 Iter 256 ComputationTime 0.754795 CommunicationTime 1.558978 TotalTime 2.313833 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 4 Py 2 Iter 256 ComputationTime 0.407863 CommunicationTime 1.697135 TotalTime 2.103135 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 4 Py 4 Iter 256 ComputationTime 0.201934 CommunicationTime 1.295500 TotalTime 1.496313 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 8 Py 4 Iter 256 ComputationTime 0.101260 CommunicationTime 1.126524 TotalTime 1.226876 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 1 Py 1 Iter 256 ComputationTime 3.828304 CommunicationTime 0.000680 TotalTime 3.829116 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 2 Py 1 Iter 256 ComputationTime 1.916858 CommunicationTime 2.043478 TotalTime 3.956468 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 2 Py 2 Iter 256 ComputationTime 0.950312 CommunicationTime 2.115975 TotalTime 3.066457 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 4 Py 2 Iter 256 ComputationTime 0.476571 CommunicationTime 2.286892 TotalTime 2.761524 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 4 Py 4 Iter 256 ComputationTime 0.238647 CommunicationTime 1.708080 TotalTime 1.944030 midpoint 0.788208
+GaussSeidelSOR X 1024 Y 1024 Px 8 Py 4 Iter 256 ComputationTime 0.120572 CommunicationTime 1.509700 TotalTime 1.627831 midpoint 0.788208

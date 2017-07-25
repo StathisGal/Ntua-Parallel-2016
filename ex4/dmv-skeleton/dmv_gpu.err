@@ -1,0 +1,672 @@
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected
+modprobe: ERROR: ../libkmod/libkmod-module.c:809 kmod_module_insert_module() could not find module by name='nvidia_352'
+modprobe: ERROR: could not insert 'nvidia_352': Function not implemented
+./dmv_main: gpu_alloc failed: no CUDA-capable device is detected

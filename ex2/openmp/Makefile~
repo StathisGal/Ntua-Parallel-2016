@@ -1,0 +1,2 @@
+all:
+	gcc util.o fw_openmp.c -fopenmp -o fw_openmp

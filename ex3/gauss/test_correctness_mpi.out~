@@ -1,0 +1,17 @@
+GaussSeidelSOR X 256 Y 256 Iter 700 Time 0.515252 midpoint 1.418996
+--------------------------------------------------------------------------
+The following command line options and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line options:
+    Deprecated:  --bynode, -bynode
+    Replacement: --map-by node
+
+  Equivalent MCA parameter:
+    Deprecated:  rmaps_base_bynode
+    Replacement: rmaps_base_mapping_policy=node
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+Jacobi X 256 Y 256 Px 8 Py 4 Iter 701 ComputationTime 0.016531 CommunicationTime 0.420552 TotalTime 0.495103 midpoint 1.418996

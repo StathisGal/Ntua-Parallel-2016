@@ -1,0 +1,8 @@
+
+
+all: utils.c utils.h mpi_gauss.c
+	mpicc utils.h utils.c  mpi_gauss.c  -std=c99 -lm -O2 -o mpi_Gauss
+	mpicc utils.h utils.c  mpi_gauss.c  -std=c99 -lm -O2 -DTEST_CONV -o mpi_Gauss_conv
+
+
+

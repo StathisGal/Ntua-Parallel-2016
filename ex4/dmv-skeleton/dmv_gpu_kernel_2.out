@@ -1,0 +1,121 @@
+Benchmark started on Sun Jan 15 20:57:41 EET 2017 in termi4
+kernel:2Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+edwn:1024 second arg:32 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 2x32
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.000118 s
+Performance:  17.772475 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019314 s
+Performance:  0.434328 Gflop/s
+>>>> End of record <<<<
+edwn:2048 second arg:64 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 4x64
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.000304 s
+Performance:  27.594105 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077380 s
+Performance:  0.433632 Gflop/s
+>>>> End of record <<<<
+edwn:4096 second arg:128 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 8x128
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.001031 s
+Performance:  32.545521 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237370 s
+Performance:  0.432913 Gflop/s
+>>>> End of record <<<<
+edwn:7168 second arg:224 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 14x224
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.003019 s
+Performance:  34.037909 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310415 s
+Performance:  0.432382 Gflop/s
+>>>> End of record <<<<
+edwn:8192 second arg:256 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 16x256
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.003932 s
+Performance:  34.134722 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.949497 s
+Performance:  0.432905 Gflop/s
+>>>> End of record <<<<
+edwn:14336 second arg:448 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 28x448
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.011866 s
+Performance:  34.640299 Gflop/s
+>>>> End of record <<<<
+kernel:2Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.238720 s
+Performance:  0.433408 Gflop/s
+>>>> End of record <<<<
+edwn:16384 second arg:512 kernel:2 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 32x512
+Shared memory size: 140 bytes
+transposedGPU kernel version: shmem
+Checking ... PASSED
+Elapsed time: 0.015475 s
+Performance:  34.692789 Gflop/s
+>>>> End of record <<<<
+Benchmark ended on Sun Jan 15 20:58:15 EET 2017 in termi4

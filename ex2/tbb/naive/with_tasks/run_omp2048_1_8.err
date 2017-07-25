@@ -1,0 +1,2 @@
+/var/spool/torque/mom_priv/jobs/306114.localhost.SC: line 33: 40521 Killed                  $openmp_exe $N $t
+=>> PBS: job killed: walltime 3622 exceeded limit 3600

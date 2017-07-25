@@ -1,0 +1,4 @@
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+/var/spool/torque/mom_priv/jobs/306115.localhost.SC: line 33: 40528 Aborted                 $openmp_exe $N $t
+=>> PBS: job killed: walltime 3622 exceeded limit 3600

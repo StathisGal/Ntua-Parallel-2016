@@ -1,0 +1,35 @@
+RedBlackSOR X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 75.117018 CommunicationTime 0.001105 TotalTime 75.118380 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 37.558199 CommunicationTime 0.575687 TotalTime 37.739008 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 18.779393 CommunicationTime 1.479123 TotalTime 20.063698 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 14.543726 CommunicationTime 4.951166 TotalTime 16.194844 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 14.579204 CommunicationTime 4.915562 TotalTime 16.079748 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 14.109427 CommunicationTime 13.035096 TotalTime 15.748107 midpoint 0.000000
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 64 slots 
+that were requested by the application:
+  mpi_Red_Black
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+RedBlackSOR X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 74.478921 CommunicationTime 0.001082 TotalTime 74.480234 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 37.267467 CommunicationTime 0.558489 TotalTime 37.754579 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 18.623733 CommunicationTime 1.479278 TotalTime 20.089285 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 9.326723 CommunicationTime 1.605595 TotalTime 10.919091 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 6.230866 CommunicationTime 1.885793 TotalTime 7.916755 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 5.438626 CommunicationTime 3.395506 TotalTime 7.178488 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 4.567219 CommunicationTime 5.123704 TotalTime 6.291444 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 74.510791 CommunicationTime 0.000983 TotalTime 74.512024 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 37.245649 CommunicationTime 0.546963 TotalTime 37.787096 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 18.625561 CommunicationTime 1.468082 TotalTime 20.093878 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 9.319154 CommunicationTime 1.619018 TotalTime 10.931990 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 6.211142 CommunicationTime 1.862904 TotalTime 7.902613 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 5.388554 CommunicationTime 3.174787 TotalTime 7.145024 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 4.669086 CommunicationTime 4.967471 TotalTime 6.191736 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 1 Py 1 Iter 256 ComputationTime 74.504631 CommunicationTime 0.001126 TotalTime 74.505980 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 1 Iter 256 ComputationTime 37.269661 CommunicationTime 0.547304 TotalTime 37.773683 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 2 Py 2 Iter 256 ComputationTime 18.619476 CommunicationTime 1.473209 TotalTime 20.088124 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 2 Iter 256 ComputationTime 9.320335 CommunicationTime 1.625205 TotalTime 10.936720 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 4 Py 4 Iter 256 ComputationTime 6.214116 CommunicationTime 1.825679 TotalTime 7.904370 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 4 Iter 256 ComputationTime 5.426675 CommunicationTime 3.212647 TotalTime 7.164199 midpoint 0.000000
+RedBlackSOR X 4096 Y 4096 Px 8 Py 8 Iter 256 ComputationTime 4.654577 CommunicationTime 4.998891 TotalTime 6.158547 midpoint 0.000000

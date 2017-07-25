@@ -1,0 +1,35 @@
+RedBlackSOR X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 169.289180 CommunicationTime 0.001319 TotalTime 169.290764 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 84.726072 CommunicationTime 1.327307 TotalTime 84.870164 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 42.247761 CommunicationTime 2.610664 TotalTime 44.397568 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 33.222280 CommunicationTime 10.729100 TotalTime 36.063179 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 33.213430 CommunicationTime 10.334589 TotalTime 35.872266 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 33.041034 CommunicationTime 29.742656 TotalTime 35.910339 midpoint 0.000000
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 64 slots 
+that were requested by the application:
+  mpi_Red_Black
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+RedBlackSOR X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 167.745880 CommunicationTime 0.001064 TotalTime 167.747186 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 83.850048 CommunicationTime 0.720126 TotalTime 84.352041 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 41.865429 CommunicationTime 2.515377 TotalTime 44.346276 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 20.951825 CommunicationTime 2.882665 TotalTime 23.819404 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 14.150270 CommunicationTime 3.523225 TotalTime 17.194541 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 12.760538 CommunicationTime 6.600150 TotalTime 16.014865 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 11.723143 CommunicationTime 12.387149 TotalTime 15.006429 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 167.629723 CommunicationTime 0.001179 TotalTime 167.631151 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 83.805694 CommunicationTime 0.714997 TotalTime 84.419264 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 41.875784 CommunicationTime 2.460030 TotalTime 44.336044 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 20.948519 CommunicationTime 2.881504 TotalTime 23.815079 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 14.028152 CommunicationTime 3.495041 TotalTime 17.154157 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 12.596589 CommunicationTime 5.679938 TotalTime 15.960941 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 11.786140 CommunicationTime 12.648818 TotalTime 14.872204 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 167.629479 CommunicationTime 0.001210 TotalTime 167.630955 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 83.793510 CommunicationTime 0.716002 TotalTime 84.439817 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 41.865706 CommunicationTime 2.466490 TotalTime 44.332453 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 20.952604 CommunicationTime 2.873231 TotalTime 23.821706 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 14.073484 CommunicationTime 3.504202 TotalTime 17.188371 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 12.760283 CommunicationTime 5.138162 TotalTime 15.981980 midpoint 0.000000
+RedBlackSOR X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 11.837857 CommunicationTime 12.615216 TotalTime 14.871023 midpoint 0.000000

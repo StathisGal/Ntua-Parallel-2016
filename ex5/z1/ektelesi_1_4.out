@@ -1,0 +1,15 @@
+ektelesi 1,1
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Throughput(Mops/sec): 357.33
+ektelesi 1,2
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Throughput(Mops/sec): 197.67
+ektelesi 2,2
+MT_CONF=0,8
+Nthreads: 2  Runtime(sec): 10  Throughput(Mops/sec): 234.04
+ektelesi 1,4
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Throughput(Mops/sec): 220.71
+ektelesi 2,4
+MT_CONF=0,8,16,24
+Nthreads: 4  Runtime(sec): 10  Throughput(Mops/sec): 113.77

@@ -1,0 +1,5 @@
+make: Warning: File 'Makefile' has modification time 87 s in the future
+/usr/lib/x86_64-linux-gnu/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+make: *** [all] Error 1

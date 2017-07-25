@@ -1,0 +1,21 @@
+16
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Throughput(Kops/sec): 1504.07
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Throughput(Kops/sec): 1621.30
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Throughput(Kops/sec): 2395.74
+1024
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Throughput(Kops/sec): 167.80
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Throughput(Kops/sec): 197.28
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Throughput(Kops/sec): 198.08
+8192
+MT_CONF=0
+Nthreads: 1  Runtime(sec): 10  Throughput(Kops/sec): 21.84
+MT_CONF=0,1
+Nthreads: 2  Runtime(sec): 10  Throughput(Kops/sec): 25.14
+MT_CONF=0,1,2,3
+Nthreads: 4  Runtime(sec): 10  Throughput(Kops/sec): 26.23

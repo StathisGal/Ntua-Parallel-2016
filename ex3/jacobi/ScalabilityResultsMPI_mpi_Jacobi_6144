@@ -1,0 +1,56 @@
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 77.506647 CommunicationTime 0.000567 TotalTime 77.507390 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 38.931692 CommunicationTime 1.324044 TotalTime 39.009936 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 19.453652 CommunicationTime 2.297463 TotalTime 21.175526 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 16.596248 CommunicationTime 6.689125 TotalTime 18.840218 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 16.598076 CommunicationTime 6.121936 TotalTime 18.844629 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 16.584291 CommunicationTime 15.792998 TotalTime 18.965668 midpoint 0.000000
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 64 slots 
+that were requested by the application:
+  mpi_Jacobi
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 77.954931 CommunicationTime 0.000584 TotalTime 77.955691 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 38.892419 CommunicationTime 1.311495 TotalTime 38.987267 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 19.430907 CommunicationTime 2.287442 TotalTime 21.152146 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 16.494437 CommunicationTime 6.416866 TotalTime 18.728091 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 16.593776 CommunicationTime 6.157257 TotalTime 18.864738 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 16.446484 CommunicationTime 15.744798 TotalTime 18.886881 midpoint 0.000000
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 64 slots 
+that were requested by the application:
+  mpi_Jacobi
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.724785 CommunicationTime 0.000630 TotalTime 75.725571 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.867690 CommunicationTime 0.370172 TotalTime 38.230933 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.963550 CommunicationTime 1.894260 TotalTime 20.857979 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.490194 CommunicationTime 2.413283 TotalTime 11.895073 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 6.928007 CommunicationTime 2.818129 TotalTime 9.538297 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 6.332176 CommunicationTime 4.083262 TotalTime 9.083221 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 5.838458 CommunicationTime 7.056265 TotalTime 8.610494 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.715162 CommunicationTime 0.000573 TotalTime 75.715917 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.891638 CommunicationTime 0.367896 TotalTime 38.230166 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.965707 CommunicationTime 1.898524 TotalTime 20.864392 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.491937 CommunicationTime 2.411787 TotalTime 11.891959 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 6.854142 CommunicationTime 2.871229 TotalTime 9.530941 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 6.296408 CommunicationTime 4.135733 TotalTime 9.066709 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 5.789711 CommunicationTime 7.127506 TotalTime 8.538083 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.694700 CommunicationTime 0.000595 TotalTime 75.695464 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.891810 CommunicationTime 0.370643 TotalTime 38.232561 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.970512 CommunicationTime 1.882402 TotalTime 20.851473 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.484835 CommunicationTime 2.417437 TotalTime 11.897521 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 6.843484 CommunicationTime 2.899481 TotalTime 9.540225 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 6.280642 CommunicationTime 3.701824 TotalTime 9.068934 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 5.768911 CommunicationTime 7.147543 TotalTime 8.551247 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 1 Py 1 Iter 256 ComputationTime 75.709525 CommunicationTime 0.000553 TotalTime 75.710242 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 1 Iter 256 ComputationTime 37.875209 CommunicationTime 0.372844 TotalTime 38.248233 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 2 Py 2 Iter 256 ComputationTime 18.964020 CommunicationTime 1.896011 TotalTime 20.859015 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 2 Iter 256 ComputationTime 9.489821 CommunicationTime 2.423357 TotalTime 11.904493 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 4 Py 4 Iter 256 ComputationTime 6.898623 CommunicationTime 2.726618 TotalTime 9.538746 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 4 Iter 256 ComputationTime 6.290117 CommunicationTime 3.984730 TotalTime 9.063499 midpoint 0.000000
+Jacobi X 6144 Y 6144 Px 8 Py 8 Iter 256 ComputationTime 5.801110 CommunicationTime 7.174941 TotalTime 8.550351 midpoint 0.000000

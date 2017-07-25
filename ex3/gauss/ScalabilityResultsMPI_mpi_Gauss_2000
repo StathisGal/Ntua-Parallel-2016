@@ -1,0 +1,12 @@
+Jacobi X 2000 Y 2000 Px 1 Py 1 Iter 256 ComputationTime 11.136903 CommunicationTime 0.001009 TotalTime 11.138013 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 2 Py 1 Iter 256 ComputationTime 5.583201 CommunicationTime 5.660420 TotalTime 11.241367 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 2 Py 2 Iter 256 ComputationTime 2.890496 CommunicationTime 5.950735 TotalTime 8.838271 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 4 Py 2 Iter 256 ComputationTime 1.567388 CommunicationTime 6.432880 TotalTime 7.995233 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 4 Py 4 Iter 256 ComputationTime 0.778561 CommunicationTime 4.849006 TotalTime 5.625215 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 8 Py 4 Iter 256 ComputationTime 0.388561 CommunicationTime 4.041347 TotalTime 4.427693 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 1 Py 1 Iter 256 ComputationTime 14.521589 CommunicationTime 0.000849 TotalTime 14.522595 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 2 Py 1 Iter 256 ComputationTime 7.269621 CommunicationTime 7.439648 TotalTime 14.701445 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 2 Py 2 Iter 256 ComputationTime 3.637506 CommunicationTime 7.697749 TotalTime 11.335482 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 4 Py 2 Iter 256 ComputationTime 1.819374 CommunicationTime 7.977837 TotalTime 9.793177 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 4 Py 4 Iter 256 ComputationTime 0.914624 CommunicationTime 6.128378 TotalTime 7.037260 midpoint 0.847319
+Jacobi X 2000 Y 2000 Px 8 Py 4 Iter 256 ComputationTime 0.454545 CommunicationTime 5.144216 TotalTime 5.595087 midpoint 0.847319

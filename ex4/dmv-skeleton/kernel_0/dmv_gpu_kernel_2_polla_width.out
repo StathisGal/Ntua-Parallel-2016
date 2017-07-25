@@ -1,0 +1,2466 @@
+Benchmark started on Mon Jan 16 00:54:05 EET 2017 in termi5
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004772 s
+Performance:  0.439470 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004776 s
+Performance:  0.439102 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004779 s
+Performance:  0.438827 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 22x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004776 s
+Performance:  0.439102 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004779 s
+Performance:  0.438827 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 13x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004782 s
+Performance:  0.438551 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 11x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004785 s
+Performance:  0.438276 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.005111 s
+Performance:  0.410321 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 7x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004773 s
+Performance:  0.439378 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004784 s
+Performance:  0.438368 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.005111 s
+Performance:  0.410321 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004784 s
+Performance:  0.438368 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004771 s
+Performance:  0.439562 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.005078 s
+Performance:  0.412988 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004781 s
+Performance:  0.438643 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004808 s
+Performance:  0.436180 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004801 s
+Performance:  0.436816 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004798 s
+Performance:  0.437089 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004799 s
+Performance:  0.436998 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004797 s
+Performance:  0.437180 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004969 s
+Performance:  0.422047 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004794 s
+Performance:  0.437453 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.005124 s
+Performance:  0.409280 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004804 s
+Performance:  0.436543 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004797 s
+Performance:  0.437180 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004987 s
+Performance:  0.420524 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004802 s
+Performance:  0.436725 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 3x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004933 s
+Performance:  0.425127 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 2x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019367 s
+Performance:  0.433139 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 128x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019370 s
+Performance:  0.433072 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019363 s
+Performance:  0.433229 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 43x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019368 s
+Performance:  0.433117 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019348 s
+Performance:  0.433565 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 26x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019365 s
+Performance:  0.433184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 22x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019340 s
+Performance:  0.433744 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 19x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019301 s
+Performance:  0.434620 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019291 s
+Performance:  0.434846 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 15x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019291 s
+Performance:  0.434846 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 13x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019294 s
+Performance:  0.434778 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 12x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019291 s
+Performance:  0.434846 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 11x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019291 s
+Performance:  0.434846 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019276 s
+Performance:  0.435184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019293 s
+Performance:  0.434801 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 9x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019297 s
+Performance:  0.434710 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019293 s
+Performance:  0.434801 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019299 s
+Performance:  0.434665 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019279 s
+Performance:  0.435116 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 7x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019290 s
+Performance:  0.434868 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 7x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019292 s
+Performance:  0.434823 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 7x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019296 s
+Performance:  0.434733 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019292 s
+Performance:  0.434823 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019293 s
+Performance:  0.434801 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019276 s
+Performance:  0.435184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 6x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019264 s
+Performance:  0.435455 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019365 s
+Performance:  0.433184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019301 s
+Performance:  0.434620 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019360 s
+Performance:  0.433296 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019373 s
+Performance:  0.433005 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019374 s
+Performance:  0.432983 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 5x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019302 s
+Performance:  0.434598 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 4x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077656 s
+Performance:  0.432091 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 256x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077609 s
+Performance:  0.432352 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 128x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077667 s
+Performance:  0.432029 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 86x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077633 s
+Performance:  0.432219 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077630 s
+Performance:  0.432235 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 52x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077688 s
+Performance:  0.431913 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 43x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077633 s
+Performance:  0.432219 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 37x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077646 s
+Performance:  0.432146 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077589 s
+Performance:  0.432464 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 29x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077579 s
+Performance:  0.432520 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 26x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077601 s
+Performance:  0.432397 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 24x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077612 s
+Performance:  0.432336 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 22x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077586 s
+Performance:  0.432480 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 20x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077614 s
+Performance:  0.432324 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 19x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077290 s
+Performance:  0.434137 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 18x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077290 s
+Performance:  0.434137 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077297 s
+Performance:  0.434097 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077307 s
+Performance:  0.434041 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 15x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077281 s
+Performance:  0.434187 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 14x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077295 s
+Performance:  0.434109 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 13x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077286 s
+Performance:  0.434159 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 13x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077301 s
+Performance:  0.434075 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 12x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077602 s
+Performance:  0.432391 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 12x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077245 s
+Performance:  0.434390 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 11x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077298 s
+Performance:  0.434092 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 11x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077280 s
+Performance:  0.434193 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077302 s
+Performance:  0.434069 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077268 s
+Performance:  0.434260 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 10x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077278 s
+Performance:  0.434204 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 9x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077280 s
+Performance:  0.434193 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 9x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077314 s
+Performance:  0.434002 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 9x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077313 s
+Performance:  0.434008 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 8x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238179 s
+Performance:  0.431442 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 448x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238293 s
+Performance:  0.431236 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 224x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238297 s
+Performance:  0.431228 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 150x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238297 s
+Performance:  0.431228 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 112x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238232 s
+Performance:  0.431346 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 90x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238238 s
+Performance:  0.431335 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 75x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238160 s
+Performance:  0.431477 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238290 s
+Performance:  0.431241 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 56x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238589 s
+Performance:  0.430701 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 50x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238597 s
+Performance:  0.430686 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 45x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238119 s
+Performance:  0.431551 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 41x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237367 s
+Performance:  0.432918 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 38x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237388 s
+Performance:  0.432880 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 35x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237371 s
+Performance:  0.432911 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237378 s
+Performance:  0.432898 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 30x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237298 s
+Performance:  0.433044 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 28x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237376 s
+Performance:  0.432902 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 27x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237326 s
+Performance:  0.432993 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 25x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237304 s
+Performance:  0.433033 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 24x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237361 s
+Performance:  0.432929 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 23x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237388 s
+Performance:  0.432880 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 22x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237369 s
+Performance:  0.432914 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 21x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237351 s
+Performance:  0.432947 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 20x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238296 s
+Performance:  0.431230 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 19x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238610 s
+Performance:  0.430663 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 18x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237378 s
+Performance:  0.432898 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 18x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237297 s
+Performance:  0.433046 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 17x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238357 s
+Performance:  0.431120 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.238736 s
+Performance:  0.430435 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237423 s
+Performance:  0.432816 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 15x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.241066 s
+Performance:  0.426275 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 15x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237401 s
+Performance:  0.432856 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 14x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310045 s
+Performance:  0.432898 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 512x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310063 s
+Performance:  0.432872 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 256x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310021 s
+Performance:  0.432931 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 171x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310024 s
+Performance:  0.432927 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 128x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310134 s
+Performance:  0.432773 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 103x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311558 s
+Performance:  0.430795 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 86x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311368 s
+Performance:  0.431058 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 74x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310057 s
+Performance:  0.432881 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311236 s
+Performance:  0.431241 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 57x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311648 s
+Performance:  0.430671 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 52x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311299 s
+Performance:  0.431154 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 47x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311333 s
+Performance:  0.431107 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 43x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311483 s
+Performance:  0.430899 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 40x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310276 s
+Performance:  0.432575 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 37x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310004 s
+Performance:  0.432955 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 35x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310040 s
+Performance:  0.432905 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310005 s
+Performance:  0.432953 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 31x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.309995 s
+Performance:  0.432967 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 29x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310086 s
+Performance:  0.432840 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 27x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311335 s
+Performance:  0.431104 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 26x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311678 s
+Performance:  0.430629 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 25x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.309983 s
+Performance:  0.432984 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 24x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311409 s
+Performance:  0.431001 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 23x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311281 s
+Performance:  0.431179 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 22x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310005 s
+Performance:  0.432953 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 21x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.309977 s
+Performance:  0.432993 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 20x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310072 s
+Performance:  0.432860 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 19x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311176 s
+Performance:  0.431324 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 19x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311245 s
+Performance:  0.431229 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 18x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311272 s
+Performance:  0.431191 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 18x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.311292 s
+Performance:  0.431163 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 17x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.309934 s
+Performance:  0.433053 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 16x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862933 s
+Performance:  0.476331 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 896x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.859640 s
+Performance:  0.478156 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 448x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865463 s
+Performance:  0.474939 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 299x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.861866 s
+Performance:  0.476921 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 224x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865073 s
+Performance:  0.475153 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 180x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862459 s
+Performance:  0.476593 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 150x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.861673 s
+Performance:  0.477028 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 128x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862781 s
+Performance:  0.476415 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 112x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.861791 s
+Performance:  0.476962 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 100x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.863986 s
+Performance:  0.475751 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 90x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865252 s
+Performance:  0.475054 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 82x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.864764 s
+Performance:  0.475323 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 75x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.864274 s
+Performance:  0.475592 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 69x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862510 s
+Performance:  0.476565 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862783 s
+Performance:  0.476414 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 60x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.861540 s
+Performance:  0.477101 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 56x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862195 s
+Performance:  0.476739 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 53x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.863507 s
+Performance:  0.476014 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 50x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.862402 s
+Performance:  0.476624 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 48x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.864817 s
+Performance:  0.475293 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 45x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.863364 s
+Performance:  0.476093 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 43x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865096 s
+Performance:  0.475140 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 41x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.863158 s
+Performance:  0.476207 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 39x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865040 s
+Performance:  0.475171 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 38x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865404 s
+Performance:  0.474971 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 36x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865492 s
+Performance:  0.474923 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 35x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.863747 s
+Performance:  0.475882 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 34x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865481 s
+Performance:  0.474929 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.860623 s
+Performance:  0.477610 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 31x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.860386 s
+Performance:  0.477741 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 30x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.865177 s
+Performance:  0.475096 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 29x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828842 s
+Performance:  0.495923 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 28x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123033 s
+Performance:  0.478054 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 1024x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.129171 s
+Performance:  0.475456 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 512x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079300 s
+Performance:  0.497425 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 342x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.317844 s
+Performance:  0.407386 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 256x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.119226 s
+Performance:  0.479681 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 205x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.120857 s
+Performance:  0.478983 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 171x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.119759 s
+Performance:  0.479452 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 147x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.120377 s
+Performance:  0.479188 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 128x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.126737 s
+Performance:  0.476483 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 114x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.122992 s
+Performance:  0.478072 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 103x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.126770 s
+Performance:  0.476469 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 94x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.121993 s
+Performance:  0.478498 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 86x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.122957 s
+Performance:  0.478087 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 79x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.125369 s
+Performance:  0.477062 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 74x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.126996 s
+Performance:  0.476373 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 69x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123389 s
+Performance:  0.477903 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 64x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123075 s
+Performance:  0.478037 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 61x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.127364 s
+Performance:  0.476218 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 57x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.126788 s
+Performance:  0.476461 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 54x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.095326 s
+Performance:  0.490147 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 52x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.125696 s
+Performance:  0.476924 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 49x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123671 s
+Performance:  0.477783 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 47x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123290 s
+Performance:  0.477945 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 45x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123343 s
+Performance:  0.477923 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 43x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123374 s
+Performance:  0.477909 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 41x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.125173 s
+Performance:  0.477145 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 40x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123879 s
+Performance:  0.477695 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 38x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123155 s
+Performance:  0.478003 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 37x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.127421 s
+Performance:  0.476194 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 36x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.124016 s
+Performance:  0.477636 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 35x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.124779 s
+Performance:  0.477312 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 34x1
+Shared memory size: 140 bytes
+kernel:0Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.123216 s
+Performance:  0.477977 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 32x1
+Shared memory size: 140 bytes
+Benchmark ended on Mon Jan 16 01:00:09 EET 2017 in termi5

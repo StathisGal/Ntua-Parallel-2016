@@ -1,0 +1,12 @@
+ektelesi 1,8
+MT_CONF=0,1,2,3,4,5,6,7
+Nthreads: 8  Runtime(sec): 10  Throughput(Mops/sec): 229.95
+ektelesi 2,8
+MT_CONF=0,1,8,9,16,17,24,25
+Nthreads: 8  Runtime(sec): 10  Throughput(Mops/sec): 121.39
+ektelesi 1,16
+MT_CONF=0,1,2,3,4,5,6,7,32,33,34,35,36,37,38,39
+Nthreads: 16  Runtime(sec): 10  Throughput(Mops/sec): 293.52
+ektelesi 2,16
+MT_CONF=0,1,2,3,8,9,10,11,16,17,18,19,24,25,26,27
+Nthreads: 16  Runtime(sec): 10  Throughput(Mops/sec): 216.04

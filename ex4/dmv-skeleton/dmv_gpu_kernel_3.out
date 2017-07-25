@@ -1,0 +1,86 @@
+Benchmark started on Sun Jan 15 21:45:11 EET 2017 in termi4
+kernel:3Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004776 s
+Performance:  0.439102 Gflop/s
+>>>> End of record <<<<
+n:1024 second arg:32529 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 2x32529
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019321 s
+Performance:  0.434170 Gflop/s
+>>>> End of record <<<<
+n:2048 second arg:32710 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 4x32710
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077282 s
+Performance:  0.434182 Gflop/s
+>>>> End of record <<<<
+n:4096 second arg:32532 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 8x32532
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237375 s
+Performance:  0.432903 Gflop/s
+>>>> End of record <<<<
+n:7168 second arg:32595 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 14x32595
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310271 s
+Performance:  0.432582 Gflop/s
+>>>> End of record <<<<
+n:8192 second arg:32555 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 16x32555
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.949817 s
+Performance:  0.432759 Gflop/s
+>>>> End of record <<<<
+n:14336 second arg:32660 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 28x32660
+Shared memory size: 140 bytes
+transposedkernel:3Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.237852 s
+Performance:  0.433712 Gflop/s
+>>>> End of record <<<<
+n:16384 second arg:32611 kernel:3 width:32
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 32x32611
+Shared memory size: 140 bytes
+transposedBenchmark ended on Sun Jan 15 21:45:46 EET 2017 in termi4

@@ -1,0 +1,2 @@
+g++  util.o -o fw_tbb_naive_parallelfor_v1 -L/home/parallel/pps/2016-2017/tbb/tbb_latest/build/linux_intel64_gcc_cc4.6.3_libc2.11.3_kernel3.7.10_release -ltbb -lrt
+Makefile:18: recipe for target 'all' failed

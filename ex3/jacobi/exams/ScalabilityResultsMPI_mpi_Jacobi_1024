@@ -1,0 +1,6 @@
+Jacobi X 1024 Y 1024 Px 1 Py 1 Iter 256 ComputationTime 2.100142 CommunicationTime 0.000284 TotalTime 2.100546 midpoint 0.000000
+Jacobi X 1024 Y 1024 Px 2 Py 1 Iter 256 ComputationTime 1.043985 CommunicationTime 0.157219 TotalTime 1.199800 midpoint 0.000000
+Jacobi X 1024 Y 1024 Px 2 Py 2 Iter 256 ComputationTime 0.219026 CommunicationTime 0.269342 TotalTime 0.483397 midpoint 0.000000
+Jacobi X 1024 Y 1024 Px 4 Py 2 Iter 256 ComputationTime 0.152296 CommunicationTime 0.277787 TotalTime 0.424692 midpoint 0.000000
+Jacobi X 1024 Y 1024 Px 4 Py 4 Iter 256 ComputationTime 0.048390 CommunicationTime 0.194074 TotalTime 0.241909 midpoint 0.000000
+Jacobi X 1024 Y 1024 Px 8 Py 4 Iter 256 ComputationTime 0.036791 CommunicationTime 0.240370 TotalTime 0.268978 midpoint 0.000000

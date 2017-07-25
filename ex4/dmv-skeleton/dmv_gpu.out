@@ -1,0 +1,3810 @@
+Benchmark started on Mon Jan  9 20:58:25 EET 2017 in termi5
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004776 s
+Performance:  0.439102 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.013056 s
+Performance:  0.160627 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004784 s
+Performance:  0.438368 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006785 s
+Performance:  0.309087 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004778 s
+Performance:  0.438918 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004613 s
+Performance:  0.454618 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 22x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004791 s
+Performance:  0.437727 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004079 s
+Performance:  0.514134 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003955 s
+Performance:  0.530253 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 13x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004780 s
+Performance:  0.438735 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005754 s
+Performance:  0.364469 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 11x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004208 s
+Performance:  0.498373 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004788 s
+Performance:  0.438002 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005702 s
+Performance:  0.367792 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004771 s
+Performance:  0.439562 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004733 s
+Performance:  0.443091 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004791 s
+Performance:  0.437727 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003975 s
+Performance:  0.527585 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 7x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004785 s
+Performance:  0.438276 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003001 s
+Performance:  0.698818 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004799 s
+Performance:  0.436998 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004583 s
+Performance:  0.457594 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004787 s
+Performance:  0.438093 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007366 s
+Performance:  0.284707 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004797 s
+Performance:  0.437180 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004894 s
+Performance:  0.428515 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004781 s
+Performance:  0.438643 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004780 s
+Performance:  0.438735 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004802 s
+Performance:  0.436725 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003863 s
+Performance:  0.542882 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004782 s
+Performance:  0.438551 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004900 s
+Performance:  0.427990 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004778 s
+Performance:  0.438918 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003183 s
+Performance:  0.658860 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004771 s
+Performance:  0.439562 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003655 s
+Performance:  0.573776 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005119 s
+Performance:  0.409680 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004798 s
+Performance:  0.437089 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008290 s
+Performance:  0.252974 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004791 s
+Performance:  0.437727 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004099 s
+Performance:  0.511625 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004780 s
+Performance:  0.438735 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005168 s
+Performance:  0.405796 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004774 s
+Performance:  0.439286 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005014 s
+Performance:  0.418259 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004777 s
+Performance:  0.439010 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004737 s
+Performance:  0.442717 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004794 s
+Performance:  0.437453 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005497 s
+Performance:  0.381508 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003096 s
+Performance:  0.677375 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003204 s
+Performance:  0.654542 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004779 s
+Performance:  0.438827 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003408 s
+Performance:  0.615362 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004778 s
+Performance:  0.438918 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.004828 s
+Performance:  0.434373 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004788 s
+Performance:  0.438002 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.009897 s
+Performance:  0.211898 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 3x1
+Shared memory size: 0 bytes
+Matrix size: 1024
+Adjusted matrix size: 1024
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.004783 s
+Performance:  0.438460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.003636 s
+Performance:  0.576774 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 2x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019310 s
+Performance:  0.434418 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007681 s
+Performance:  1.092124 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 128x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019299 s
+Performance:  0.434665 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006675 s
+Performance:  1.256720 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019301 s
+Performance:  0.434620 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006657 s
+Performance:  1.260118 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 43x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019298 s
+Performance:  0.434688 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007675 s
+Performance:  1.092978 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019287 s
+Performance:  0.434936 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006344 s
+Performance:  1.322290 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 26x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019293 s
+Performance:  0.434801 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007691 s
+Performance:  1.090704 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 22x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019297 s
+Performance:  0.434710 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.010647 s
+Performance:  0.787885 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 19x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019302 s
+Performance:  0.434598 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006699 s
+Performance:  1.252218 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019295 s
+Performance:  0.434756 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006190 s
+Performance:  1.355187 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 15x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019303 s
+Performance:  0.434575 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008013 s
+Performance:  1.046875 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 13x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019292 s
+Performance:  0.434823 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007117 s
+Performance:  1.178672 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 12x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019297 s
+Performance:  0.434710 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006447 s
+Performance:  1.301165 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 11x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019296 s
+Performance:  0.434733 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007701 s
+Performance:  1.089288 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019284 s
+Performance:  0.435004 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006494 s
+Performance:  1.291747 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019273 s
+Performance:  0.435252 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006296 s
+Performance:  1.332371 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 9x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019293 s
+Performance:  0.434801 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006947 s
+Performance:  1.207515 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019283 s
+Performance:  0.435026 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.010439 s
+Performance:  0.803583 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019294 s
+Performance:  0.434778 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008316 s
+Performance:  1.008731 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019302 s
+Performance:  0.434598 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006438 s
+Performance:  1.302984 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 7x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019292 s
+Performance:  0.434823 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005946 s
+Performance:  1.410799 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 7x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019303 s
+Performance:  0.434575 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.009548 s
+Performance:  0.878572 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 7x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019292 s
+Performance:  0.434823 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008994 s
+Performance:  0.932689 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019297 s
+Performance:  0.434710 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007463 s
+Performance:  1.124026 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019295 s
+Performance:  0.434756 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.009545 s
+Performance:  0.878848 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019276 s
+Performance:  0.435184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.006842 s
+Performance:  1.226046 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 6x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019285 s
+Performance:  0.434981 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.005967 s
+Performance:  1.405833 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019276 s
+Performance:  0.435184 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007358 s
+Performance:  1.140066 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019281 s
+Performance:  0.435071 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008023 s
+Performance:  1.045570 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019305 s
+Performance:  0.434530 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007756 s
+Performance:  1.081564 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019301 s
+Performance:  0.434620 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007587 s
+Performance:  1.105655 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019291 s
+Performance:  0.434846 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007460 s
+Performance:  1.124478 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 5x1
+Shared memory size: 0 bytes
+Matrix size: 2048
+Adjusted matrix size: 2048
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.019290 s
+Performance:  0.434868 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.007718 s
+Performance:  1.086889 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 4x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077337 s
+Performance:  0.433873 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.023287 s
+Performance:  1.440908 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 256x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077305 s
+Performance:  0.434053 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.020554 s
+Performance:  1.632501 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 128x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077323 s
+Performance:  0.433952 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.013347 s
+Performance:  2.514006 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 86x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077320 s
+Performance:  0.433968 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.009779 s
+Performance:  3.431274 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077294 s
+Performance:  0.434114 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012068 s
+Performance:  2.780447 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 52x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077319 s
+Performance:  0.433974 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.010997 s
+Performance:  3.051235 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 43x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077325 s
+Performance:  0.433940 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.008801 s
+Performance:  3.812570 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 37x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077402 s
+Performance:  0.433509 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.017599 s
+Performance:  1.906610 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077325 s
+Performance:  0.433940 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.015693 s
+Performance:  2.138178 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 29x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077312 s
+Performance:  0.434013 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012396 s
+Performance:  2.706876 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 26x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077292 s
+Performance:  0.434126 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.014375 s
+Performance:  2.334221 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 24x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077312 s
+Performance:  0.434013 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012151 s
+Performance:  2.761454 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 22x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077331 s
+Performance:  0.433907 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.013722 s
+Performance:  2.445302 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 20x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077341 s
+Performance:  0.433851 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.013904 s
+Performance:  2.413293 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 19x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077275 s
+Performance:  0.434221 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012481 s
+Performance:  2.688441 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 18x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077294 s
+Performance:  0.434114 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012520 s
+Performance:  2.680066 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077337 s
+Performance:  0.433873 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.013699 s
+Performance:  2.449407 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077280 s
+Performance:  0.434193 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.011128 s
+Performance:  3.015316 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 15x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077327 s
+Performance:  0.433929 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016377 s
+Performance:  2.048875 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 14x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077337 s
+Performance:  0.433873 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.018067 s
+Performance:  1.857222 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 13x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077352 s
+Performance:  0.433789 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.018799 s
+Performance:  1.784905 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 13x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077298 s
+Performance:  0.434092 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.014300 s
+Performance:  2.346464 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 12x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077319 s
+Performance:  0.433974 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.024367 s
+Performance:  1.377044 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 12x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077341 s
+Performance:  0.433851 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.014899 s
+Performance:  2.252126 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 11x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077310 s
+Performance:  0.434024 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016210 s
+Performance:  2.069983 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 11x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077358 s
+Performance:  0.433755 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016647 s
+Performance:  2.015644 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077346 s
+Performance:  0.433822 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016445 s
+Performance:  2.040403 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077340 s
+Performance:  0.433856 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.012216 s
+Performance:  2.746761 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 10x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077325 s
+Performance:  0.433940 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.018147 s
+Performance:  1.849035 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 9x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077343 s
+Performance:  0.433839 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.017911 s
+Performance:  1.873398 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 9x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077314 s
+Performance:  0.434002 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016681 s
+Performance:  2.011536 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 9x1
+Shared memory size: 0 bytes
+Matrix size: 4096
+Adjusted matrix size: 4096
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.077304 s
+Performance:  0.434058 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.016183 s
+Performance:  2.073437 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 8x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237513 s
+Performance:  0.432652 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042381 s
+Performance:  2.424682 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 448x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237463 s
+Performance:  0.432743 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.030505 s
+Performance:  3.368643 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 224x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237556 s
+Performance:  0.432574 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.030128 s
+Performance:  3.410796 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 150x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237521 s
+Performance:  0.432637 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.038087 s
+Performance:  2.698045 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 112x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237491 s
+Performance:  0.432692 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042038 s
+Performance:  2.444466 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 90x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237542 s
+Performance:  0.432599 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042374 s
+Performance:  2.425083 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 75x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237519 s
+Performance:  0.432641 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.035449 s
+Performance:  2.898825 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237565 s
+Performance:  0.432557 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.034848 s
+Performance:  2.948819 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 56x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237522 s
+Performance:  0.432635 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.036289 s
+Performance:  2.831724 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 50x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237603 s
+Performance:  0.432488 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.030022 s
+Performance:  3.422838 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 45x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237557 s
+Performance:  0.432572 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.035753 s
+Performance:  2.874177 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 41x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237484 s
+Performance:  0.432705 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043439 s
+Performance:  2.365626 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 38x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237598 s
+Performance:  0.432497 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.038978 s
+Performance:  2.636370 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 35x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237428 s
+Performance:  0.432807 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042380 s
+Performance:  2.424739 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237483 s
+Performance:  0.432707 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.036380 s
+Performance:  2.824641 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 30x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237494 s
+Performance:  0.432687 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032074 s
+Performance:  3.203855 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 28x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237545 s
+Performance:  0.432594 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032285 s
+Performance:  3.182916 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 27x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237536 s
+Performance:  0.432610 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.030289 s
+Performance:  3.392666 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 25x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237549 s
+Performance:  0.432586 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.040815 s
+Performance:  2.517713 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 24x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237630 s
+Performance:  0.432439 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.038248 s
+Performance:  2.686688 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 23x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237528 s
+Performance:  0.432625 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032816 s
+Performance:  3.131413 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 22x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237561 s
+Performance:  0.432564 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032132 s
+Performance:  3.198072 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 21x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237557 s
+Performance:  0.432572 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032286 s
+Performance:  3.182818 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 20x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237580 s
+Performance:  0.432530 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032259 s
+Performance:  3.185482 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 19x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237492 s
+Performance:  0.432690 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.035791 s
+Performance:  2.871125 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 18x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237524 s
+Performance:  0.432632 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042778 s
+Performance:  2.402180 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 18x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237512 s
+Performance:  0.432654 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043929 s
+Performance:  2.339239 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 17x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237515 s
+Performance:  0.432648 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.038571 s
+Performance:  2.664189 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237539 s
+Performance:  0.432605 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.033454 s
+Performance:  3.071694 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237536 s
+Performance:  0.432610 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.032431 s
+Performance:  3.168587 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 15x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237490 s
+Performance:  0.432694 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.035830 s
+Performance:  2.868000 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 15x1
+Shared memory size: 0 bytes
+Matrix size: 7168
+Adjusted matrix size: 7168
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.237516 s
+Performance:  0.432646 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.037833 s
+Performance:  2.716159 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 14x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310255 s
+Performance:  0.432605 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.044132 s
+Performance:  3.041279 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 512x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310215 s
+Performance:  0.432660 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.050312 s
+Performance:  2.667708 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 256x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310271 s
+Performance:  0.432582 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042665 s
+Performance:  3.145851 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 171x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310244 s
+Performance:  0.432620 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.047630 s
+Performance:  2.817924 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 128x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310230 s
+Performance:  0.432639 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.049175 s
+Performance:  2.729389 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 103x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310239 s
+Performance:  0.432627 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.050848 s
+Performance:  2.639587 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 86x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310203 s
+Performance:  0.432677 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.048624 s
+Performance:  2.760319 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 74x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310117 s
+Performance:  0.432797 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042246 s
+Performance:  3.177052 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310267 s
+Performance:  0.432588 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.040701 s
+Performance:  3.297652 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 57x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310260 s
+Performance:  0.432598 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.041972 s
+Performance:  3.197792 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 52x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310261 s
+Performance:  0.432596 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.044272 s
+Performance:  3.031662 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 47x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.313585 s
+Performance:  0.428011 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.053572 s
+Performance:  2.505371 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 43x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310347 s
+Performance:  0.432476 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043913 s
+Performance:  3.056446 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 40x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310178 s
+Performance:  0.432712 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.046660 s
+Performance:  2.876505 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 37x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310255 s
+Performance:  0.432605 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.042420 s
+Performance:  3.164020 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 35x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310248 s
+Performance:  0.432614 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.040042 s
+Performance:  3.351924 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310353 s
+Performance:  0.432468 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.044258 s
+Performance:  3.032621 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 31x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310235 s
+Performance:  0.432632 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.050729 s
+Performance:  2.645779 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 29x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310266 s
+Performance:  0.432589 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043896 s
+Performance:  3.057630 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 27x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310181 s
+Performance:  0.432708 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.056206 s
+Performance:  2.387961 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 26x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.315154 s
+Performance:  0.425880 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.051965 s
+Performance:  2.582849 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 25x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310213 s
+Performance:  0.432663 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.039961 s
+Performance:  3.358718 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 24x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310291 s
+Performance:  0.432554 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043014 s
+Performance:  3.120327 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 23x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310291 s
+Performance:  0.432554 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.037612 s
+Performance:  3.568482 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 22x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310218 s
+Performance:  0.432656 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.043636 s
+Performance:  3.075849 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 21x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310166 s
+Performance:  0.432729 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.054521 s
+Performance:  2.461762 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 20x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310247 s
+Performance:  0.432616 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.049324 s
+Performance:  2.721144 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 19x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310259 s
+Performance:  0.432599 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.052418 s
+Performance:  2.560527 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 19x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310225 s
+Performance:  0.432646 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.053721 s
+Performance:  2.498422 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 18x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310306 s
+Performance:  0.432533 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.056917 s
+Performance:  2.358131 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 18x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310187 s
+Performance:  0.432699 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.049700 s
+Performance:  2.700558 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 17x1
+Shared memory size: 0 bytes
+Matrix size: 8192
+Adjusted matrix size: 8192
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.310196 s
+Performance:  0.432687 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.048344 s
+Performance:  2.776306 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 16x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829257 s
+Performance:  0.495675 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.114329 s
+Performance:  3.595254 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 896x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828842 s
+Performance:  0.495923 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.140170 s
+Performance:  2.932452 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 448x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829033 s
+Performance:  0.495809 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.134504 s
+Performance:  3.055982 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 299x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828939 s
+Performance:  0.495865 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.110160 s
+Performance:  3.731316 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 224x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828969 s
+Performance:  0.495847 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.119662 s
+Performance:  3.435024 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 180x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.833074 s
+Performance:  0.493404 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.127351 s
+Performance:  3.227629 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 150x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829130 s
+Performance:  0.495751 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.117920 s
+Performance:  3.485768 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 128x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829193 s
+Performance:  0.495713 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.138039 s
+Performance:  2.977722 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 112x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829038 s
+Performance:  0.495806 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.130199 s
+Performance:  3.157027 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 100x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828969 s
+Performance:  0.495847 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.123116 s
+Performance:  3.338655 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 90x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828877 s
+Performance:  0.495902 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.119358 s
+Performance:  3.443772 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 82x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829108 s
+Performance:  0.495764 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.127566 s
+Performance:  3.222189 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 75x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829147 s
+Performance:  0.495741 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.114271 s
+Performance:  3.597079 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 69x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829181 s
+Performance:  0.495720 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.135355 s
+Performance:  3.036768 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829445 s
+Performance:  0.495562 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.114466 s
+Performance:  3.590951 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 60x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829037 s
+Performance:  0.495806 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.131590 s
+Performance:  3.123655 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 56x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829076 s
+Performance:  0.495783 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.119373 s
+Performance:  3.443340 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 53x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828950 s
+Performance:  0.495858 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.118754 s
+Performance:  3.461288 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 50x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828877 s
+Performance:  0.495902 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.166725 s
+Performance:  2.465388 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 48x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828891 s
+Performance:  0.495894 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.144295 s
+Performance:  2.848621 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 45x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829089 s
+Performance:  0.495775 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.121003 s
+Performance:  3.396955 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 43x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828933 s
+Performance:  0.495869 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.111045 s
+Performance:  3.701579 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 41x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828991 s
+Performance:  0.495834 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.123716 s
+Performance:  3.322463 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 39x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829376 s
+Performance:  0.495604 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.141146 s
+Performance:  2.912175 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 38x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828986 s
+Performance:  0.495837 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.121834 s
+Performance:  3.373786 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 36x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828911 s
+Performance:  0.495882 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.123556 s
+Performance:  3.326765 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 35x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829149 s
+Performance:  0.495739 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.138265 s
+Performance:  2.972855 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 34x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.915148 s
+Performance:  0.449153 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.116636 s
+Performance:  3.524142 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829060 s
+Performance:  0.495793 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.123944 s
+Performance:  3.316351 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 31x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.828927 s
+Performance:  0.495872 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.127826 s
+Performance:  3.215635 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 30x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829072 s
+Performance:  0.495785 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.121729 s
+Performance:  3.376696 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 29x1
+Shared memory size: 0 bytes
+Matrix size: 14336
+Adjusted matrix size: 14336
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 0.829069 s
+Performance:  0.495787 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.119893 s
+Performance:  3.428405 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 28x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079384 s
+Performance:  0.497386 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.168393 s
+Performance:  3.188202 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 16x1
+Grid size : 1024x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079273 s
+Performance:  0.497438 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.146744 s
+Performance:  3.658554 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 32x1
+Grid size : 512x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079524 s
+Performance:  0.497322 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.162798 s
+Performance:  3.297773 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 48x1
+Grid size : 342x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079424 s
+Performance:  0.497368 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.151808 s
+Performance:  3.536513 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 64x1
+Grid size : 256x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079046 s
+Performance:  0.497542 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.170169 s
+Performance:  3.154928 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 80x1
+Grid size : 205x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079126 s
+Performance:  0.497505 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.171011 s
+Performance:  3.139394 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 96x1
+Grid size : 171x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079182 s
+Performance:  0.497479 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.150195 s
+Performance:  3.574493 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 112x1
+Grid size : 147x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.255707 s
+Performance:  0.427545 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.151392 s
+Performance:  3.546230 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 128x1
+Grid size : 128x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079225 s
+Performance:  0.497460 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.161951 s
+Performance:  3.315021 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 144x1
+Grid size : 114x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079706 s
+Performance:  0.497238 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.156967 s
+Performance:  3.420279 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 160x1
+Grid size : 103x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079391 s
+Performance:  0.497383 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.164225 s
+Performance:  3.269118 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 176x1
+Grid size : 94x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079395 s
+Performance:  0.497381 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.157192 s
+Performance:  3.415383 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 192x1
+Grid size : 86x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079496 s
+Performance:  0.497335 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.184931 s
+Performance:  2.903088 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 208x1
+Grid size : 79x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079055 s
+Performance:  0.497538 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.162764 s
+Performance:  3.298462 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 224x1
+Grid size : 74x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079315 s
+Performance:  0.497418 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.173691 s
+Performance:  3.090954 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 240x1
+Grid size : 69x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079465 s
+Performance:  0.497349 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.140181 s
+Performance:  3.829841 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 256x1
+Grid size : 64x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.080929 s
+Performance:  0.496675 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.162681 s
+Performance:  3.300145 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 272x1
+Grid size : 61x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079351 s
+Performance:  0.497402 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.164262 s
+Performance:  3.268382 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 288x1
+Grid size : 57x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.140700 s
+Performance:  0.470650 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.141538 s
+Performance:  3.793122 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 304x1
+Grid size : 54x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.367543 s
+Performance:  0.392581 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.142505 s
+Performance:  3.767383 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 320x1
+Grid size : 52x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079697 s
+Performance:  0.497242 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.150483 s
+Performance:  3.567652 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 336x1
+Grid size : 49x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.168487 s
+Performance:  0.459458 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.170555 s
+Performance:  3.147788 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 352x1
+Grid size : 47x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079391 s
+Performance:  0.497383 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.157599 s
+Performance:  3.406563 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 368x1
+Grid size : 45x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079351 s
+Performance:  0.497402 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.173183 s
+Performance:  3.100021 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 384x1
+Grid size : 43x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079342 s
+Performance:  0.497406 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.159534 s
+Performance:  3.365244 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 400x1
+Grid size : 41x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.078975 s
+Performance:  0.497575 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.172492 s
+Performance:  3.112439 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 416x1
+Grid size : 40x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079207 s
+Performance:  0.497468 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.172650 s
+Performance:  3.109591 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 432x1
+Grid size : 38x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.080091 s
+Performance:  0.497061 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.177548 s
+Performance:  3.023807 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 448x1
+Grid size : 37x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.113373 s
+Performance:  0.482202 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.160558 s
+Performance:  3.343782 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 464x1
+Grid size : 36x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079501 s
+Performance:  0.497332 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.170012 s
+Performance:  3.157841 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 480x1
+Grid size : 35x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.079774 s
+Performance:  0.497207 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.171041 s
+Performance:  3.138843 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 496x1
+Grid size : 34x1
+Shared memory size: 0 bytes
+Matrix size: 16384
+Adjusted matrix size: 16384
+>>>> Begin of record <<<<
+Serial version:
+Elapsed time: 1.078888 s
+Performance:  0.497615 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+OpenMP version:
+Checking ... PASSED
+Elapsed time: 0.173919 s
+Performance:  3.086902 Gflop/s
+>>>> End of record <<<<
+>>>> Begin of record <<<<
+Block size: 512x1
+Grid size : 32x1
+Shared memory size: 0 bytes
+Benchmark ended on Mon Jan  9 21:04:37 EET 2017 in termi5

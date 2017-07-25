@@ -1,0 +1,17 @@
+RedBlackSOR X 256 Y 256 Iter 600 Time 0.273568 midpoint 1.418989
+--------------------------------------------------------------------------
+The following command line options and corresponding MCA parameter have
+been deprecated and replaced as follows:
+
+  Command line options:
+    Deprecated:  --bynode, -bynode
+    Replacement: --map-by node
+
+  Equivalent MCA parameter:
+    Deprecated:  rmaps_base_bynode
+    Replacement: rmaps_base_mapping_policy=node
+
+The deprecated forms *will* disappear in a future version of Open MPI.
+Please update to the new syntax.
+--------------------------------------------------------------------------
+RedBlackSOR X 256 Y 256 Px 8 Py 4 Iter 601 ComputationTime 0.010604 CommunicationTime 0.263070 TotalTime 0.415679 midpoint 1.418989

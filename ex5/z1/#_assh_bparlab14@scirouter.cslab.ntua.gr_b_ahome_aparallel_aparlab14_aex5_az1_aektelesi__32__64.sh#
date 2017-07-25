@@ -1,0 +1,40 @@
+#!/bin/bash
+
+## Give the Job a descriptive name
+#PBS -N testjob
+
+## Output and error files
+#PBS -o ektelesi_32_64.out
+#PBS -e ektelesi_32_64.err
+
+## Limit memory, runtime etc.
+#PBS -l walltime=01:00:00
+
+## How many nodes:processors_per_node should we get?
+## Run on parlab
+#PBS -l nodes=1:ppn=64
+
+## Start
+
+##echo "PBS_NODEFILE = $PBS_NODEFILE"
+##cat $PBS_NODEFILE
+
+## Run the job (use full paths to make sure we execute the correct thing) 
+## NOTE: Fix the path to show to your executable! 
+
+
+cd /home/parallel/parlab14/ex5/z1
+
+## NOTE: Fix the names of your executables
+
+echo ektelesi 1,32
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47 ./accounts
+echo ektelesi 2,32
+MT_CONF=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ./accounts
+
+
+## Make sure you disable convergence testing and printing
+
+
+
+

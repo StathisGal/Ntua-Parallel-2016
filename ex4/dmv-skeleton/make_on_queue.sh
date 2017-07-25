@@ -1,0 +1,19 @@
+#!/bin/bash
+
+## Give the Job a descriptive name
+#PBS -N parlab14
+
+## Output and error files
+#PBS -o parlab14.out
+#PBS -e parlab14.err
+
+## How many machines should we get?
+#PBS -l nodes=1
+#PBS -l walltime=00:00:30
+## Start 
+## Run make in the src folder (modify properly)
+module load gcc/4.8.2
+
+cd /home/parallel/parlab14/ex4/dmv-skeleton
+make 
+
